@@ -1,2 +1,1 @@
-# SimpleDB_LRM
-SimpleDB with LRM Implementation
+# SimpleDB with Least Recently Modified (LRM) Replacement Policy
